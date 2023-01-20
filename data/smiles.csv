@@ -1,0 +1,6 @@
+name,smiles
+benzene,c1ccccc1
+l-phenylalanine,C1=CC=C(C=C1)C[C@@H](C(=O)O)N
+phenylalanine,C1=CC=C(C=C1)CC(C(=O)O)N
+ethanol,CCO
+glucose,C(C1C(C(C(C(O1)O)O)O)O)O
